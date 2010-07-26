@@ -1,5 +1,11 @@
 2010-07-26  lluis  <${AuthorEmail}>
 
+	* Makefile.am:
+	* Mono.Addins.csproj:
+	* Mono.Addins.dll.config: 
+
+2010-07-26  lluis  <${AuthorEmail}>
+
 	* Mono.Addins/Addin.cs: Un nou comentari.
 
 2010-07-01  Lluis Sanchez Gual  <lluis@novell.com>

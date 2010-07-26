@@ -107,7 +107,7 @@ FILES =  \
 	Mono.Addins/TypeExtensionNode.cs \
 	Mono.Addins/TypeExtensionPointAttribute.cs 
 
-DATA_FILES = Mono.Addins.dll.config 
+DATA_FILES = 
 
 RESOURCES = 
 
