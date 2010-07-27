@@ -42,7 +42,7 @@ namespace Mono.Addins
 	/// </summary>
 	public class Addin
 	{
-		// Now comentari
+		// Now comentari test
 		AddinInfo addin;
 		string configFile;
 		string sourceFile;
