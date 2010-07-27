@@ -8,7 +8,7 @@ using System.Runtime.CompilerServices;
 // you compile.
 
 [assembly: AssemblyTitle("Mono.Addins")]
-[assembly: AssemblyCopyright("Copyright (C) 2007 Novell, Inc (http://www.novell.com)")]
+[assembly: AssemblyCopyright("Copyright (C) 2007 Novell, Inc (http://www.novell.com) t")]
 
 // The assembly version has following format :
 //
