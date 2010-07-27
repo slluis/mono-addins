@@ -1,3 +1,7 @@
+2010-07-27  Lluis Sanchez Gual  <lluis@novell.com>
+
+	* Mono.Addins/AddinAuthorAttribute.cs: yy
+
 2010-07-26  lluis  <${AuthorEmail}>
 
 	* Makefile.am:

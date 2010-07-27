@@ -34,7 +34,7 @@ namespace Mono.Addins
 	[AttributeUsage (AttributeTargets.Assembly, AllowMultiple=true)]
 	public class AddinAuthorAttribute: Attribute
 	{
-		string name;
+		string name; // testing
 		
 		/// <summary>
 		/// Initializes the attribute
