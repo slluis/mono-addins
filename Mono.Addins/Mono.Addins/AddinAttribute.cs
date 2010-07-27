@@ -39,7 +39,7 @@ namespace Mono.Addins
 	public class AddinAttribute: Attribute
 	{
 		string id;
-		string version;
+		string version; // more testing
 		string ns;
 		string category;
 		bool enabledByDefault = true;
