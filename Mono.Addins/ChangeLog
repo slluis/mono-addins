@@ -2,6 +2,12 @@
 
 	* Makefile.am:
 	* Mono.Addins/aaa.cs:
+	* Mono.Addins.csproj: sdfgsdg
+
+2010-07-27  Lluis Sanchez Gual  <lluis@novell.com>
+
+	* Makefile.am:
+	* Mono.Addins/aaa.cs:
 	* Mono.Addins.csproj:
 	* Mono.Addins/AddinAttribute.cs: Canvi
 
