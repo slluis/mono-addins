@@ -66,6 +66,7 @@ FILES =  \
 	Mono.Addins.Serialization/BinaryXmlTypeMap.cs \
 	Mono.Addins.Serialization/BinaryXmlWriter.cs \
 	Mono.Addins.Serialization/IBinaryXmlElement.cs \
+	Mono.Addins/aaa.cs \
 	Mono.Addins/Addin.cs \
 	Mono.Addins/AddinAttribute.cs \
 	Mono.Addins/AddinAuthorAttribute.cs \

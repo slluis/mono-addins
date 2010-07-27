@@ -40,7 +40,7 @@ namespace Mono.Addins
 	{
 		string id;
 		string version;
-		string ns;
+		string ns; // comment
 		string category;
 		bool enabledByDefault = true;
 		AddinFlags flags;

@@ -130,6 +130,7 @@
     <Compile Include="Mono.Addins\ImportAddinAssemblyAttribute.cs" />
     <Compile Include="Mono.Addins\AddinModuleAttribute.cs" />
     <Compile Include="Mono.Addins\AddinEngine.cs" />
+    <Compile Include="Mono.Addins\aaa.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ChangeLog" />
