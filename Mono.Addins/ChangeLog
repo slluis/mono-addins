@@ -1,3 +1,8 @@
+2010-07-28  lluis  <sdfsdf>
+
+	* Mono.Addins/Addin.cs:
+	* Mono.Addins/AddinAttribute.cs: 
+
 2010-07-28  Lluis Sanchez Gual  <lluis@novell.com>
 
 	* Mono.Addins.csproj: 
