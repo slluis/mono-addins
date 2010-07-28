@@ -5,7 +5,7 @@ using System.Runtime.CompilerServices;
 // attributes.
 //
 // change them to the information which is associated with the assembly
-// you compile.
+// you compile. local22
 
 [assembly: AssemblyTitle("Mono.Addins")]
 [assembly: AssemblyCopyright("Copyright (C) 2007 Novell, Inc (http://www.novell.com)")]
