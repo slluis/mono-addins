@@ -47,7 +47,7 @@ namespace Mono.Addins
 		string configFile;
 		string sourceFile;
 		WeakReference desc;
-		AddinDatabase database; // esp
+		AddinDatabase database; // esp 22
 		
 		internal Addin (AddinDatabase database, string file)
 		{
