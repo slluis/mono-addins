@@ -43,7 +43,7 @@ namespace Mono.Addins
 	public class Addin
 	{
 		// Now comentari especial
-		// Mes comentaris d tertert dd
+		// Mes comentaris d tertert dd stasa
 		AddinInfo addin;
 		string configFile;
 		string sourceFile;
