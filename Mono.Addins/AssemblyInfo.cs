@@ -18,3 +18,5 @@ using System.Runtime.CompilerServices;
 // numbers with the '*' character (the default):
 
 [assembly: AssemblyVersion("0.5.0.0")]
+
+// Test
