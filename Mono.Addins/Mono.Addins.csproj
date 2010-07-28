@@ -37,7 +37,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AssemblyInfo.cs" />
     <Compile Include="Mono.Addins\ExtensionNode.cs" />
     <Compile Include="Mono.Addins\ExtensionTree.cs" />
     <Compile Include="Mono.Addins\TreeNode.cs" />

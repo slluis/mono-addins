@@ -1,5 +1,11 @@
 2010-07-28  Lluis Sanchez Gual  <lluis@novell.com>
 
+	* Makefile.am:
+	* AssemblyInfo.cs:
+	* Mono.Addins.csproj: 
+
+2010-07-28  Lluis Sanchez Gual  <lluis@novell.com>
+
 	* Mono.Addins/Addin.cs: 
 
 2010-07-28  Lluis Sanchez Gual  <lluis@novell.com>

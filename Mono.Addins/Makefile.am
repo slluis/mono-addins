@@ -13,7 +13,6 @@ BUILD_DIR = ../bin
 all: $(ASSEMBLY)
 
 FILES =  \
-	AssemblyInfo.cs \
 	Mono.Addins.Database/AddinDatabase.cs \
 	Mono.Addins.Database/AddinHostIndex.cs \
 	Mono.Addins.Database/AddinScanFolderInfo.cs \
