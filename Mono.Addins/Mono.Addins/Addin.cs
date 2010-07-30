@@ -39,7 +39,7 @@ namespace Mono.Addins
 {
 	/// <summary>
 	/// An add-in.
-	/// </summary>
+	/// </summary> rr
 	public class Addin
 	{
 		// Now comentari especial
