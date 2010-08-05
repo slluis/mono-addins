@@ -4,7 +4,7 @@ using System.Diagnostics;
 using Mono.Addins;
 using Mono.Addins.Setup;
 
-namespace mautil // aabb113344
+namespace mautil // aabb11334455
 {
 	class MainClass
 	{
