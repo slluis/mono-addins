@@ -7,7 +7,11 @@ using System.Runtime.CompilerServices;
 // change them to the information which is associated with the assembly
 // you compile.
 
+<<<<<<< HEAD
 [assembly: AssemblyTitle("")] // aa
+=======
+[assembly: AssemblyTitle("")] // bb
+>>>>>>> r
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
